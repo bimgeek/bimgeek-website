@@ -25,7 +25,6 @@ cover:
     caption: "<text>"
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-
 ---
 
 {{<youtube JU_2uzPnSIY>}}
