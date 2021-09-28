@@ -1,4 +1,4 @@
-baseURL = '//bimgeek.github.io/'
+baseURL = 'http://bimgeek.github.io/'
 languageCode = 'en-us'
 title = 'BIMGEEK'
 theme = "PaperMod"
