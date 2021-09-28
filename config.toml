@@ -1,0 +1,116 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'BIMGEEK'
+theme = "PaperMod"
+defaultcontentlanguage = "en"
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[params.assets]
+favicon = "/images/favicon.ico"
+
+[minify]
+disableXML = true
+
+[menu]
+[[menu.main]]
+name = "Tutorials"
+url = "tutorials"
+weight = 5
+
+[[menu.main]]
+name = "Search"
+url = "search/"
+weight = 20
+
+[[menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 15
+
+[[menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 10
+
+[params]
+author = "Mucahit Bilal Goker"
+info = "BIMGEEK - BIM, Design and Technology channel."
+description = "Mucahit Bilal GOKER's personal website."
+
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+
+
+  [params.profileMode]
+  enabled = true
+  title = "BIMGEEK"
+  subtitle = "Platform where various contents related to BIM, Design and Technology are shared"
+  imageUrl = "images/memoji-bimgeek.png"
+  imageTitle = "memoji-bimgeek"
+  
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/gokermu"
+
+  [[params.socialIcons]]
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UCLwgBbBfZLcqqbta10a_fpQ"
+
+  [[params.socialIcons]]
+  name = "LinkedIn"
+  url = "https://tr.linkedin.com/in/mücahit-bilal-göker-a44451121"
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:mucahitbgoker@gmail.com"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
