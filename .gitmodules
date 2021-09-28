@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/bimgeek/bimgeek.github.io
+	url = https://github.com/bimgeek/bimgeek.github.io.git
 	branch = main

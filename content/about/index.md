@@ -39,7 +39,6 @@ If you want to learn more about me👇🏻:
     {{< custom-button ionicon="document" text="Curriculum-Vitae">}}
 </a>
 
-Also, I organize webinars and meetups on BIM and Computational Design and I have been teaching AEC tools for about 2 years now. You can learn more about that here👇🏻:
+This is some content.
 
 {{< callout emoji="💯" text="This is the text that will show up in the callout. It can be as long as you like, but only one paragraph." >}}
-
