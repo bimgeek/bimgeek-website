@@ -3,9 +3,9 @@ title: "Floor Finishes by Room using Grasshopper inside Revit"
 date: 2021-09-16T20:29:54+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["english", "revit", "grasshopper", "rhino inside", "floor finish", "computational design"]
+categories: ["rhino inside", "modeling"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

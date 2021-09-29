@@ -3,9 +3,9 @@ title: "Mutfak Modelleme - Default Family'leri Kullanarak"
 date: 2020-07-22T17:23:37+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["revit", "kitchen"]
-categories: ["category1", "category2"]
-author: "Mucahit Bilal GOKER" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "kitchen"]
+categories: ["modeling"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

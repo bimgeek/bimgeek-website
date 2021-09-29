@@ -3,9 +3,9 @@ title: "Bosjes Chapel - Revit'te Modelleme"
 date: 2020-10-14T16:39:29+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "bosjes chapel"]
+categories: ["famous projects", "modeling"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false
@@ -36,7 +36,7 @@ Herkese selamlar,
 Güney Afrika'da bir bağ içinde yer alan Bosjes Chapel, Londra merkezli Steyn Studio'dan Güney Afrika doğumlu Coetzee Steyn tarafından tasarlandı. Sakin heykelsi formu, çevredeki dağ sıralarının siluetini taklit eden yapı, ince bir beton döküm kabuktan inşa edilen çatıya sahip. Bu videoda yapının çatısını Revit ortamında modelledik. Cephesini de basit anlamda oluşturduk.
 İyi seyirler.
 
-[Bosjes Chapel / Steyn Studio](https://www.archdaily.com/867369/bosjes-chapel-steyn-studio)
+Proje hakkında daha fazla bilgi için 👉 [Bosjes Chapel / Steyn Studio](https://www.archdaily.com/867369/bosjes-chapel-steyn-studio)
 
 <a href="files/BosjesChapel-Proje.rvt" download>
     {{< button text="Project File">}}

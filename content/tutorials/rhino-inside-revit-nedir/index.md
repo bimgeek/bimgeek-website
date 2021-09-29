@@ -5,7 +5,7 @@ date: 2021-03-14T16:40:07+03:00
 # aliases: ["/first"]
 tags: ["rhino inside", "revit", "grasshopper"]
 categories: ["blog"]
-author: "Me" # multiple authors: ["Me", "You"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: true
 TocOpen: false
 draft: false

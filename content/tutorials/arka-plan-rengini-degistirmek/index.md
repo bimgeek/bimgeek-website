@@ -3,9 +3,9 @@ title: "Arka Plan Rengini Değiştirmek"
 date: 2020-07-04T17:20:22+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "ui"]
+categories: ["tips and tricks"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

@@ -3,8 +3,8 @@ title: "3D Döşeme Diyagramı"
 date: 2020-09-19T16:38:05+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
+tags: ["turkce", "revit", "floor", "diagram"]
+categories: ["graphics"]
 author: "Me" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false

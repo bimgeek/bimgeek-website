@@ -3,9 +3,9 @@ title: "Revit'te Kıvrımlı Çatı Yapmak"
 date: 2020-06-06T17:09:23+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["revit", "roof"]
+tags: ["turkce", "revit", "roof"]
 categories: ["tips and tricks", "modeling"]
-author: "Me" # multiple authors: ["Me", "You"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

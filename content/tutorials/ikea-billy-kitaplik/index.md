@@ -3,9 +3,9 @@ title: "Ikea - Billy Kitaplık"
 date: 2020-09-12T16:37:33+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "parametric", "bookcase"]
+categories: ["family", "modeling"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

@@ -2,9 +2,9 @@
 title: "About"
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+#tags: ["tag1", "tag2"]
+#categories: ["category1", "category2"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

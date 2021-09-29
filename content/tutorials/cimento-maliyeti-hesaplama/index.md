@@ -3,9 +3,9 @@ title: "Çimento Maliyeti Hesaplama"
 date: 2020-08-12T16:35:22+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "boq"]
+categories: ["scheduling"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

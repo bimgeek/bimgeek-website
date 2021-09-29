@@ -3,9 +3,9 @@ title: "Sadece Gölgeleri Export Almak"
 date: 2020-07-25T17:23:58+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["revit", "graphics"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["revit", "graphics", "ui"]
+categories: ["tips and tricks", "graphics"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

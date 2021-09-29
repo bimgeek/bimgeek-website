@@ -3,9 +3,9 @@ title: "Üç Kollu Merdiven"
 date: 2020-06-13T17:14:37+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["revit", "merdiven"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "stair"]
+categories: ["modeling", "tips and tricks"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

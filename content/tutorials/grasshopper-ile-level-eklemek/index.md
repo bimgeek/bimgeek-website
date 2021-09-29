@@ -3,9 +3,9 @@ title: "Grasshopper ile Level Eklemek"
 date: 2021-02-10T16:39:54+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "grasshopper", "rhino inside", "computational design"]
+categories: ["rhino inside"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

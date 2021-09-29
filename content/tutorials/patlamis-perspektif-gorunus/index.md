@@ -3,9 +3,9 @@ title: "Patlamış Perspektif Görünüş"
 date: 2020-08-15T16:35:39+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "exploded axonometric"]
+categories: ["graphics"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false

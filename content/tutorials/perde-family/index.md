@@ -3,9 +3,9 @@ title: "Parametrik Perde Family'si"
 date: 2020-08-01T16:16:23+03:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tag1", "tag2"]
-categories: ["category1", "category2"]
-author: "Me" # multiple authors: ["Me", "You"]
+tags: ["turkce", "revit", "curtain", "family"]
+categories: ["family", "modeling"]
+author: "BIMGEEK" # multiple authors: ["Me", "You"]
 showToc: false
 TocOpen: false
 draft: false
