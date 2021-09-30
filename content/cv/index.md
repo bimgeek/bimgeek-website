@@ -28,9 +28,12 @@ cover:
 
 # **Mücahit Bilal GÖKER**
 
+## Summary ✍
+---
 
+I am an architect with experience in a wide variety of project scales and types, worked with designers, engineers and contractors in all phases of building design and construction. I leverage BIM, VDC and Design Technology to prodive impactful tools for project success. My current focus is on design automation and leveraging data in BIM models for meaningful results.
 
-## Work Experience 🎩
+## Professional Experience 🎩
 
 ---
 
@@ -38,12 +41,12 @@ cover:
 
 *Jan 2020 - Present*
 
-- Responsible for developing solutions regarding automation processes
-- Improving the quality of submissions
-- Automated nearly all the major man-hour tasks with Dynamo/Grasshopper (examples can be seen in Scripts tab.)
-- Created a "Knowledge Hub" that includes technical documentation and video tutorial on how to use scripts that are created for the project.
 - Responsible for BIM Modeling processes, clash detection and 4D simulations of the projects
-- Organizing workshops and teaching colleagues Revit and Dynamo/Grasshopper as an instructor.
+- Automated nearly all the major man-hour tasks with Dynamo/Grasshopper
+- Created a "Knowledge Hub" that includes technical documentation and video tutorial on how to use scripts that are created for the project.
+- Responsible for developing solutions regarding automation processes
+- Organizing workshops and teaching colleagues Dynamo and Grasshopper as an instructor.
+- Improving the quality of submissions
 - Active support to coworkers' development, motivation, and retention processes
 
 ### BIM Architect [@VIVA Architects](http://www.vivaarchitects.com)
@@ -65,7 +68,7 @@ cover:
 - Providing appropriate activation codes for objects
 - Assisting and teaching other interns Revit.
 
-### Freelance Instructor 👨‍🏫
+### Freelance Instructor 
 
 *July 2017 - Present*
 
@@ -89,7 +92,7 @@ Bachelors in Architecture
 
 Masters in Architectural and Urban Informatics
 
-## Skills 🐱‍👤
+## Technical Skills 🐱‍👤
 
 ---
 <table style="width:100%; text-align: center; margin-left: auto; margin-right: auto;" >
@@ -131,12 +134,11 @@ Masters in Architectural and Urban Informatics
     </tr>
 </table>
 
-Above are list of softwares that I am most confident about. Other than that:
-
-- I know **Adobe Photoshop** and **Illustrator**. My **Photoshop** skills are better than **Illustrator** ones though.
-- I have tried to pass my processes to open source.
-- I have tried **Blender** but decided it is not suitable (yet) for architectural design (at least for me😅).
-- I also tried **Unreal Engine 4** for visualization purposes but it was sucking the energy⚡ out of my laptop💻, so i sticked with the solutions I currently use which are **Enscape** and **Twinmotion**.
+Above are list of skills that I am most confident about. Other than that:
+- I know **BIM360**. I have used it in projects I have participated.
+- I know **HTML** and have some knowledge about **CSS**. Learned **JavaScript** to get into **Autodesk Forge**.
+- I know **Adobe Photoshop** and **Illustrator**. My **Photoshop** skills are better than **Illustrator** though.
+- I used **Unreal Engine** for visualization purposes but it was sucking the energy⚡ out of my laptop💻, so i sticked with the solutions I currently use which are **Enscape** and **Twinmotion**.
 
 ## Achievements 🥇
 
@@ -158,7 +160,7 @@ Project includes the design of a social center to be used by students at Ayazaga
 
 ---
 
-Much of what I have learned is from the people around me 👨‍👨‍👦. For this reason, if I want to improve💪🏻 myself in a field, I surround myself with people who are interested🤔 in that subject. It's also really nice to be with people you speak🗣️ the same language with.
+Much of what I have learned is from the people around me 👨‍👨‍👦. For this reason, if I want to improve💪🏻 myself in a field, I surround myself with people who are interested🤔 in that subject. It's also really nice to be with people you speak the same language with.
 
 <img src="images/bim4turkey-logo.png" width=300px>
 

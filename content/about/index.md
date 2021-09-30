@@ -36,7 +36,7 @@ I envision a connected, progressive and collaborative AEC Industry. I have a str
 If you want to learn more about me👇🏻:
 
 <a href="/cv/">
-    {{< custom-button ionicon="document" text="Curriculum-Vitae">}}
+    {{< custom-button ionicon="reorder-four" text="Curriculum-Vitae">}}
 </a>
 
 This is some content.
