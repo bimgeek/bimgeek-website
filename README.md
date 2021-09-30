@@ -1,5 +1,7 @@
 # BIMGEEK Personal Website
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+
 This repository contains all the base files of [bimgeek website](https://bimgeek.github.io). It is created using Hugo static site generator and PaperMod theme.  Hugo is a fast and modern static site generator (SSG) written in Go. There are other SSGs but I chose hugo because:
 
 - It is open-source and it is really fast. Haven't tried it myself but what I see is it is faster than Jekyll (built in Github pages ssg.)
