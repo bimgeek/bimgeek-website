@@ -31,7 +31,11 @@ cover:
 ## Summary ✍
 ---
 
-I am an architect with experience in a wide variety of project scales and types, worked with designers, engineers and contractors in all phases of building design and construction. I leverage BIM, VDC and Design Technology to prodive impactful tools for project success. My current focus is on design automation and leveraging data in BIM models for meaningful results.
+I am an architect with experience in a wide variety of project scales and types, worked with designers, engineers and contractors in all phases of building design and construction. I leverage BIM, VDC and Design Technology to provide impactful tools for project success. My current focus is on design automation and leveraging data in BIM models for meaningful results.
+
+<span href="/cv/MücahitBilalGöker-CV.pdf">
+    {{< custom-button ionicon="attach" text="Download PDF">}}
+</span>
 
 ## Professional Experience 🎩
 
@@ -41,42 +45,54 @@ I am an architect with experience in a wide variety of project scales and types,
 
 *Jan 2020 - Present*
 
-- Responsible for BIM Modeling processes, clash detection and 4D simulations of the projects
-- Automated nearly all the major man-hour tasks with Dynamo/Grasshopper
-- Created a "Knowledge Hub" that includes technical documentation and video tutorial on how to use scripts that are created for the project.
-- Responsible for developing solutions regarding automation processes
-- Organizing workshops and teaching colleagues Dynamo and Grasshopper as an instructor.
-- Improving the quality of submissions
-- Active support to coworkers' development, motivation, and retention processes
+- BIM Support tasks: BIM Coordination and daily management of BIM projects from modeling to clash detection and simulation
+- Project set-up based on project BIM requirements and provide advice on best practice.
+- Coordinate multiple projects using the agreed project standards
+- Maintain and adjust project standard documentation throughout the project workstages.
+- Responsible for integrating computational design processes to projects
+- Provide direct support to project teams to develop and deliver computational design solutions
+- Developing and implementing productivity improvement initiatives
+- Responsible for documenting and delivering computational methods and design solutions
+- Provide technical support for BIM enabling software applications to the project teams
+- Organize workshops and trainings to internal staff members
 
 ### BIM Architect [@VIVA Architects](http://www.vivaarchitects.com)
 
 *June 2019 - Jan 2020*
 
-- Responsible for BIM Modeling processes
-- Content and Template creation for the office
-- Creating folder structure for the office so it complies with local/international standards.
-- Participated in modeling/coordination/documentation processes.
+- Assist in the development and implementation of company-wide BIM standards and procedures
+- Develop and maintain Revit templates, content libraries and create Revit families in response to project needs
+- Support BIM implementation, authoring and coordination in all phases of a project
+- Develop new models with shared workspaces per project standards, and provide daily model management updates
+- Perform BIM quantity take-off necessary to provide the cost estimators with quantities
+- Organizing and directing the work of architects/engineers and modelers by providing support as and when required
 
 ### Intern [@RSY Construction](http://rsyinsaat.com)
 
 *July 2018 - Oct 2018*
 
-- Implementation of a mixed use project in Uskudar and a tower project in Ankara.
-- Modeling of structural project
-- BIM Modeling - floors, ceilings, walls etc.
-- Providing appropriate activation codes for objects
-- Assisting and teaching other interns Revit.
+- Worked closely with engineers and designers to produce models and plans, and help automate processes
+- Performed assignments under the direct supervision of the Project Manager
+- Supported the provision of design development drawings and models, and collaborated with production staff for technical details and completion of construction drawings
+- Assisted and taught other interns about Revit.
 
 ### Freelance Instructor 
 
 *July 2017 - Present*
 
-- Giving courses to individuals and companies about AEC tools such as *Rhino, Grasshopper, Revit and Dynamo.*
+- Providing courses to individuals on Autodesk Revit, Dynamo, Rhinoceros and Grasshopper
 
 ## Education 🏫
 
 ---
+
+### MSGSU
+
+*Sept 2020-June 2023 (expected)*
+
+Masters in Architectural and Urban Informatics Applications
+
+*GPA: 3.94 (currently)*
 
 ### Istanbul Technical University
 
@@ -84,63 +100,25 @@ I am an architect with experience in a wide variety of project scales and types,
 
 Bachelors in Architecture
 
-- Diploma thesis: “Movie Production Complex in Istanbul, Turkey”
-
-### MSGSU
-
-*Sept 2020-June 2022 (expected)*
-
-Masters in Architectural and Urban Informatics
+*GPA: 3.08*
 
 ## Technical Skills 🐱‍👤
 
 ---
-<table style="width:100%; text-align: center; margin-left: auto; margin-right: auto;" >
-    <tr>
-        <td style="padding: 0 50px"><img src="images/revit-logo.png" width=70px></td>
-        <td style="padding: 0 50px"><img src="images/dynamo-logo.png" width=70px></td>
-        <td style="padding: 0 50px"><img src="images/rhino-logo.png" width=70px></td>
-        <td style="padding: 0 50px"><img src="images/grasshopper-logo.png" width=70px></td>
-    </tr>
-    <tr>
-        <td>Autodesk Revit</td>
-        <td>Dynamo</td>
-        <td>Rhinoceros</td>
-        <td>Grasshopper</td>
-    </tr>
-    <tr>
-        <td>⭐⭐⭐⭐⭐</td>
-        <td>⭐⭐⭐⭐</td>
-        <td>⭐⭐⭐⭐</td>
-        <td>⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-        <td style="padding: 0 50px"><img src="images/sketchup-logo.png" width=70px></td>
-        <td style="padding: 0 50px"><img src="images/navisworks-logo.png" width=70px></td>
-        <td style="padding: 0 50px"><img src="images/autocad-logo.png" width=70px></td>
-        <td style="padding: 0 50px"><img src="images/python-logo.png" width=70px></td>
-    </tr>
-    <tr>
-        <td>Sketchup</td>
-        <td>Navisworks</td>
-        <td>AutoCAD</td>
-        <td>Python</td>
-    </tr>
-    <tr>
-        <td>⭐⭐⭐⭐⭐</td>
-        <td>⭐⭐⭐⭐</td>
-        <td>⭐⭐⭐⭐</td>
-        <td>⭐⭐⭐</td>
-    </tr>
-</table>
 
-Above are list of skills that I am most confident about. Other than that:
-- I know **BIM360**. I have used it in projects I have participated.
-- I know **HTML** and have some knowledge about **CSS**. Learned **JavaScript** to get into **Autodesk Forge**.
-- I know **Adobe Photoshop** and **Illustrator**. My **Photoshop** skills are better than **Illustrator** though.
-- I used **Unreal Engine** for visualization purposes but it was sucking the energy⚡ out of my laptop💻, so i sticked with the solutions I currently use which are **Enscape** and **Twinmotion**.
+### Advanced
 
-## Achievements 🥇
+Autodesk Revit, Dynamo, Grasshopper🦗, Rhinoceros🦏, AutoCAD, Sketchup, Photoshop
+
+### Good
+
+Python🐍, Enscape, Twinmotion, PowerBI, BIM360
+
+### Basic
+
+C#, HTML, CSS, Javascript, Hugo, Git
+
+## Awards 🥇
 
 ---
 
@@ -154,29 +132,32 @@ Arbor Tower project have been awarded with Honorable Mention at eVolo Skyscraper
 
 April 2018
 
-Project includes the design of a social center to be used by students at Ayazaga Campus. Main point of this competition was designing a building with other disciplines involved in a BIM process.
+Project includes the design of a social center to be used by students at ITU Ayazaga Campus. Main point of this competition was designing a building with other disciplines involved in a BIM process.
 
 ## Community and Volunteer Experience 🤝
 
 ---
 
-Much of what I have learned is from the people around me 👨‍👨‍👦. For this reason, if I want to improve💪🏻 myself in a field, I surround myself with people who are interested🤔 in that subject. It's also really nice to be with people you speak the same language with.
+Much of what I have learned is from the people around me 👨‍👨‍👦. For this reason, if I want to improve💪🏻 myself in a field, I surround myself with people who are interested🤔 in the same subject. It’s also really nice to be with people you speak the same language with.
 
-<img src="images/bim4turkey-logo.png" width=300px>
+### BIM4TURKEY
+*Board Member*
 
-[BIM4TURKEY](https://bim4turkey.com/en) is a platform belonging to “Building Information Modeling and Management Association”. It aims to facilitate the integration of Building Information Modelling and Management (BIM) easier and smoother to the building industry, higher education and public companies.
+*[BIM4TURKEY](https://bim4turkey.com/en)* is a platform belonging to “Building Information Modeling and Management Association”. It aims to facilitate the integration of Building Information Modelling and Management (BIM) easier and smoother to the building industry, higher education and public companies.
 
 We have founded it to create an atmosphere around the subject of BIM. Now, it has turned into an umbrella organization☂ rather than a platform. All the major construction companies (such as TURNER, Kalyon (my current company), BSI and many more) have partnered with us in achieving our mission💪🏻.
 
-<img src="images/codeist-logo.png" width=300px>
+### SPECKLE
+*Contributor*
 
-`CO.DE:IST` is a community of Computational Design enthusiasts in Istanbul. Our reason for establishing this community was to learn from each other and increase the knowledge in our country.
+*[Speckle](https://speckle.systems)* is a cloud based solution for the AEC industry that provides interoperability, real time collaboration, data management, versioning and automation. I am a firm believer in this project and try to contribute by reporting bugs, suggesting new features and creating tutorials that showcases how to use Speckle in our workflows.
 
-We get together every two weeks and each week has its topic. That week's speaker presents his work to the community. Presentation topics can be a solution brought by the speakers in their workflow processes via **Dynamo**, **Grasshopper** or **Revit API**. We have learned a lot from each other since this community was formed.
+### CO.DE:IST
 
-<img src="images/osarch-logo.png" width=300px>
+**`CO.DE:IST`** is a community of Computational Design enthusiasts in Istanbul. Our reason for establishing this community was to learn from each other and increase the knowledge in our country. We get together every two weeks and each week has its topic. That week’s speaker presents his work to the community. Presentation topics can be a solution brought by the speakers in their workflow processes via Dynamo, Grasshopper or Revit API. We have learned a lot from each other since this community was formed.
+
+### OSArch Community
 
 The **Open-Source Architecture Community** brings together like-minded users and developers who share a common goal: that the built environment can be designed, constructed, operated, and recycled with free/libre and open-source software, with increased transparency, and a more ethical approach.
 
 I have been involved with the OSArch community for about **a year** now. I have been creating **graphic designs🖼** for meetups and operating the **[OSArch Youtube Channel🔴.](https://www.youtube.com/c/OSArchOrg/videos)**
-    
