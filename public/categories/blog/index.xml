@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on BIMGEEK</title>
+    <link>https://bimgeek.github.io/categories/blog/</link>
+    <description>Recent content in blog on BIMGEEK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 16:40:07 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rhino Inside Revit Nedir</title>
+      <link>https://bimgeek.github.io/tutorials/rhino-inside-revit-nedir/</link>
+      <pubDate>Sun, 14 Mar 2021 16:40:07 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/rhino-inside-revit-nedir/</guid>
+      <description>Grasshopper ile yapılmış mimari projelere bir örnek: Shanghai Tower, Gensler
+Rhino ve Grasshopper Rhino🦏, McNeel tarafından geliştirilen bir 3D modelleme uygulaması ve 1980&amp;rsquo;de piyasaya sürülmesinden bu yana, güçlü geometri motoru💪 ve çok yönlülüğü nedeniyle mimari, imalat, endüstriyel tasarım ve ürün tasarımı için kullanılan önemli tasarım uygulamalarından biri haline gelmiştir. Rhino&amp;rsquo;nun geometri mantığının altında NURBS (Non-uniform rational B-spline) yatar. NURBS&amp;rsquo;ler sayesinde, mesh tabanlı uygulamaların aksine, hassas eğrileri ve yüzeyleri matematiksel olarak modelleyebilir.</description>
+    </item>
+    
+  </channel>
+</rss>

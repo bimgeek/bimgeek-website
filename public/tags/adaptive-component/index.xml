@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>adaptive component on BIMGEEK</title>
+    <link>https://bimgeek.github.io/tags/adaptive-component/</link>
+    <description>Recent content in adaptive component on BIMGEEK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 16:38:17 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/adaptive-component/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camp Adventure - Revit&#39;te Modelleme</title>
+      <link>https://bimgeek.github.io/tutorials/camp-adventure/</link>
+      <pubDate>Wed, 23 Sep 2020 16:38:17 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/camp-adventure/</guid>
+      <description>Bu videoda EFFEKT Mimarlık ofisinin tasarladığı Danimarka&amp;rsquo;da yer alan Camp Adventure Gözetleme Kulesi projesini Revit&amp;rsquo;te modelledim. Adaptive Component ve Mass environment&amp;rsquo;a dair incelikler içeren bir video oldu. İyi seyirler.
+Camp Adventure Observation Tower / EFFEKT
+.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
+    </item>
+    
+    <item>
+      <title>Museo Soumaya | FR-EE   </title>
+      <link>https://bimgeek.github.io/tutorials/museo-soumaya/</link>
+      <pubDate>Sat, 05 Sep 2020 16:36:57 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/museo-soumaya/</guid>
+      <description>Herkese selamlar, Bu videoda FR-EE tarafından tasarlanan Soumaya Museum projesini Revit&amp;rsquo;te modelledim. Amorf formuyla ve cephesini kaplayan panelleriyle dikkatleri üzerine çeken proje Meksika&amp;rsquo;nın başkenti Mexico City&amp;rsquo;de yer alıyor. Mass modelleme ve Pattern Based Curtain Wall Panel family i tanımak anlamında güzel bir içerik oldu. İyi seyirler.
+Soumaya Museum / FR-EE Fernando Romero Enterprise
+.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
+    </item>
+    
+  </channel>
+</rss>

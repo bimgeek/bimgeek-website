@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on BIMGEEK</title>
+    <link>https://bimgeek.github.io/categories/</link>
+    <description>Recent content in Categories on BIMGEEK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jan 2022 22:16:09 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>speckle</title>
+      <link>https://bimgeek.github.io/categories/speckle/</link>
+      <pubDate>Thu, 13 Jan 2022 22:16:09 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/speckle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling</title>
+      <link>https://bimgeek.github.io/categories/modeling/</link>
+      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhino inside</title>
+      <link>https://bimgeek.github.io/categories/rhino-inside/</link>
+      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/rhino-inside/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://bimgeek.github.io/categories/blog/</link>
+      <pubDate>Sun, 14 Mar 2021 16:40:07 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>famous projects</title>
+      <link>https://bimgeek.github.io/categories/famous-projects/</link>
+      <pubDate>Wed, 28 Oct 2020 16:39:42 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/famous-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphics</title>
+      <link>https://bimgeek.github.io/categories/graphics/</link>
+      <pubDate>Wed, 07 Oct 2020 16:39:16 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips and tricks</title>
+      <link>https://bimgeek.github.io/categories/tips-and-tricks/</link>
+      <pubDate>Sat, 03 Oct 2020 16:39:02 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/tips-and-tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>family</title>
+      <link>https://bimgeek.github.io/categories/family/</link>
+      <pubDate>Wed, 30 Sep 2020 16:38:45 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scheduling</title>
+      <link>https://bimgeek.github.io/categories/scheduling/</link>
+      <pubDate>Wed, 12 Aug 2020 16:35:22 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/scheduling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

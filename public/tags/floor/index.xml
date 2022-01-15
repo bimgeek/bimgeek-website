@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>floor on BIMGEEK</title>
+    <link>https://bimgeek.github.io/tags/floor/</link>
+    <description>Recent content in floor on BIMGEEK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Sep 2020 16:38:05 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/floor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Döşeme Diyagramı</title>
+      <link>https://bimgeek.github.io/tutorials/3d-doseme-diyagrami/</link>
+      <pubDate>Sat, 19 Sep 2020 16:38:05 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/3d-doseme-diyagrami/</guid>
+      <description>Herkese selamlar,
+Bu videoda, Patlamış Axonometrik görünüşte bir döşemeyi katmanlarına ayırarak bir grafik elde ettik. Daha önceki videolarda işlediğimiz Create Parts ve Displace Elements komutlarının birlikte çalışılabilirliği üzerinden nasıl sonuçlar elde edilebileceğini de göstermiş olduk. Her şey adım adım videoda!
+.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
+    </item>
+    
+  </channel>
+</rss>

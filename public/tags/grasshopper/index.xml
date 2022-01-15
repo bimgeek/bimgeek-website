@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>grasshopper on BIMGEEK</title>
+    <link>https://bimgeek.github.io/tags/grasshopper/</link>
+    <description>Recent content in grasshopper on BIMGEEK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Sep 2021 20:29:54 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/grasshopper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Floor Finishes by Room using Grasshopper inside Revit</title>
+      <link>https://bimgeek.github.io/tutorials/rir-floor-finish/</link>
+      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/rir-floor-finish/</guid>
+      <description>In this video, we are going to automate floor finish creation using Grasshopper inside Revit. Creating floor finishes is a task that can be automated easily and save us a huge amount of time. When room finishes are defined or embedded in a room&amp;rsquo;s parameter, it doesn&amp;rsquo;t make any sense to model floor finishes manually. We are going to create floor finishes from room boundaries using Grasshopper inside Revit.</description>
+    </item>
+    
+    <item>
+      <title>Rhino Inside Revit Nedir</title>
+      <link>https://bimgeek.github.io/tutorials/rhino-inside-revit-nedir/</link>
+      <pubDate>Sun, 14 Mar 2021 16:40:07 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/rhino-inside-revit-nedir/</guid>
+      <description>Grasshopper ile yapılmış mimari projelere bir örnek: Shanghai Tower, Gensler
+Rhino ve Grasshopper Rhino🦏, McNeel tarafından geliştirilen bir 3D modelleme uygulaması ve 1980&amp;rsquo;de piyasaya sürülmesinden bu yana, güçlü geometri motoru💪 ve çok yönlülüğü nedeniyle mimari, imalat, endüstriyel tasarım ve ürün tasarımı için kullanılan önemli tasarım uygulamalarından biri haline gelmiştir. Rhino&amp;rsquo;nun geometri mantığının altında NURBS (Non-uniform rational B-spline) yatar. NURBS&amp;rsquo;ler sayesinde, mesh tabanlı uygulamaların aksine, hassas eğrileri ve yüzeyleri matematiksel olarak modelleyebilir.</description>
+    </item>
+    
+    <item>
+      <title>Grasshopper ile Level Eklemek</title>
+      <link>https://bimgeek.github.io/tutorials/grasshopper-ile-level-eklemek/</link>
+      <pubDate>Wed, 10 Feb 2021 16:39:54 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/grasshopper-ile-level-eklemek/</guid>
+      <description>Herkese selamlar,
+Bu videoda Rhino.Inside Revit ile Grasshopper üzerinden Revit&amp;rsquo;te otomatik level oluşturma ve isimlendirme konusunu işledik. Başlangıç seviyesinde Grasshopper bilenler için güzel bir video oldu. İyi seyirler.
+.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
+    </item>
+    
+  </channel>
+</rss>

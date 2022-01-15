@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kitchen on BIMGEEK</title>
+    <link>https://bimgeek.github.io/tags/kitchen/</link>
+    <description>Recent content in kitchen on BIMGEEK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2020 16:38:45 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parametrik Mutfak Mobilyasi</title>
+      <link>https://bimgeek.github.io/tutorials/parametrik-mutfak-mobilyasi/</link>
+      <pubDate>Wed, 30 Sep 2020 16:38:45 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/parametrik-mutfak-mobilyasi/</guid>
+      <description>Herkese selamlar,
+Geçtiğimiz videolarda Revit&amp;rsquo;in hazır kütüphanesini kullanarak bir mutfak modellemesi gerçekleştirmiştik. Bu videoda basit bir Parametrik Mutfak Mobilyası modelleyeceğiz. İyi seyirler.
+.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
+    </item>
+    
+    <item>
+      <title>Mutfak Modelleme - Default Family&#39;leri Kullanarak</title>
+      <link>https://bimgeek.github.io/tutorials/mutfak-modelleme/</link>
+      <pubDate>Wed, 22 Jul 2020 17:23:37 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/mutfak-modelleme/</guid>
+      <description>Herkese selamlar,
+Bu videoda Revit&amp;rsquo;le beraber gelen kütüphanedeki familyleri kullanarak bir mutfak modellemesi yaptım. Birçok kullanıcı Revit&amp;rsquo;le beraber gelen kütüphaneyi göz ardı ediyor. Bu videoda hazır kütüphanenin potansiyelini ortaya çıkarmaya çalıştım. Umarım birşeyler öğrenmişsinizdir.
+.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
+    </item>
+    
+  </channel>
+</rss>

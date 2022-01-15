@@ -33,9 +33,9 @@ cover:
 
 I am an architect with experience in a wide variety of project scales and types, worked with designers, engineers and contractors in all phases of building design and construction. I leverage BIM, VDC and Design Technology to provide impactful tools for project success. My current focus is on design automation and leveraging data in BIM models for meaningful results.
 
-<span href="/cv/MücahitBilalGöker-CV.pdf">
+<a href="/cv/MücahitBilalGöker-CV.pdf">
     {{< custom-button ionicon="attach" text="Download PDF">}}
-</span>
+</a>
 
 ## Professional Experience 🎩
 
