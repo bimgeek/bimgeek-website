@@ -20,7 +20,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "images/FloorFinishByRoom-Thumbnail.jpg" # or URL
+    image: "images/floor-finishes-by-room-boundary.png" # or URL
     alt: "<alt text>"
     caption: "<text>"
     relative: false # when using page bundles set this to true

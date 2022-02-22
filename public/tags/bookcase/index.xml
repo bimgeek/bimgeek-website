@@ -1,21 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>bookcase on BIMGEEK</title>
-    <link>https://bimgeek.github.io/tags/bookcase/</link>
-    <description>Recent content in bookcase on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 16:37:33 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/bookcase/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ikea - Billy Kitaplık</title>
-      <link>https://bimgeek.github.io/tutorials/ikea-billy-kitaplik/</link>
-      <pubDate>Sat, 12 Sep 2020 16:37:33 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/ikea-billy-kitaplik/</guid>
-      <description>Bu videoda IKEA&amp;rsquo;nın Billy kitaplık serisini Revit&amp;rsquo;te modelledik. Billy serisi, farklı malzeme seçenekleri ve farklı boyutlarda alternatifler sunması bakımından güzel bir seçim oldu. Videoda, formüller, nested families ve parametrelerin birbirleriyle olan ilişkilerine değindik. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-  </channel>
-</rss>

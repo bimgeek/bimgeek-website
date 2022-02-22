@@ -1,22 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>table on BIMGEEK</title>
-    <link>https://bimgeek.github.io/tags/table/</link>
-    <description>Recent content in table on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2020 16:36:15 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/table/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Parametrik Masa</title>
-      <link>https://bimgeek.github.io/tutorials/parametrik-masa/</link>
-      <pubDate>Wed, 26 Aug 2020 16:36:15 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/parametrik-masa/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;te Kelebek Çatı modellemesi gerçekleştirdim. Aynı formu farklı yöntemler kullanarak oluşturmak çatı modelleme araçlarını keşfetmek adına güzel oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-  </channel>
-</rss>

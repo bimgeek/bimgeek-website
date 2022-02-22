@@ -1,65 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>graphics on BIMGEEK</title>
-    <link>https://bimgeek.github.io/categories/graphics/</link>
-    <description>Recent content in graphics on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2020 16:39:16 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/graphics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>3D Çatı Diyagramı</title>
-      <link>https://bimgeek.github.io/tutorials/3d-cati-diyagrami/</link>
-      <pubDate>Wed, 07 Oct 2020 16:39:16 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/3d-cati-diyagrami/</guid>
-      <description>Herkese selamlar,
-Proje detayları 3 boyutlu olarak ifade etmek, grafik anlamda ve karşıdaki kişinin anlamasını kolaylaştırması açısından güzel oluyor. Bu videoda basit bir çatının 3 boyutlu bir diyagramını yaptık. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-    <item>
-      <title>3D Döşeme Diyagramı</title>
-      <link>https://bimgeek.github.io/tutorials/3d-doseme-diyagrami/</link>
-      <pubDate>Sat, 19 Sep 2020 16:38:05 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/3d-doseme-diyagrami/</guid>
-      <description>Herkese selamlar,
-Bu videoda, Patlamış Axonometrik görünüşte bir döşemeyi katmanlarına ayırarak bir grafik elde ettik. Daha önceki videolarda işlediğimiz Create Parts ve Displace Elements komutlarının birlikte çalışılabilirliği üzerinden nasıl sonuçlar elde edilebileceğini de göstermiş olduk. Her şey adım adım videoda!
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>3D Duvar Diyagramı</title>
-      <link>https://bimgeek.github.io/tutorials/3d-duvar-diyagrami/</link>
-      <pubDate>Wed, 02 Sep 2020 16:36:40 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/3d-duvar-diyagrami/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;te &amp;lsquo;3D Duvar Diyagramı&amp;rsquo; oluşturacağım. Aslında Create Parts komutunu tanımak adına güzel bir video olacak. Bu komut sayesinde 3D duvar, döşeme ve çatı detayları çıkarmak ve hoş grafiklerle ifade etmek mümkün. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>Patlamış Perspektif Görünüş</title>
-      <link>https://bimgeek.github.io/tutorials/patlamis-perspektif-gorunus/</link>
-      <pubDate>Sat, 15 Aug 2020 16:35:39 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/patlamis-perspektif-gorunus/</guid>
-      <description>Herkese selamlar, Bu videoda sadece Revit kullanarak bir Patlamış Perspektif görseli oluşturdum. Displace Element komutunu ve Revit&amp;rsquo;in grafik anlamda potansiyelini ortaya koymak adına güzel bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.</description>
-    </item>
-    
-    <item>
-      <title>Sadece Gölgeleri Export Almak</title>
-      <link>https://bimgeek.github.io/tutorials/golgeleri-export-almak/</link>
-      <pubDate>Sat, 25 Jul 2020 17:23:58 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/golgeleri-export-almak/</guid>
-      <description>Herkese selamlar,
-Bu video’da grafik anlamda birçok kullanıcının işine yarayacak bir konudan bahsettim: Gölgeyi ayrıca export almak. Post production aşamasında büyük kolaylıklar sağlayan bu konu, Revit’te standart olarak olan bir çözüm değil. Ancak biraz dolambaçlı da olsa bunun da bir çözümü var.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-  </channel>
-</rss>

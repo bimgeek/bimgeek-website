@@ -1,22 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>wall on BIMGEEK</title>
-    <link>https://bimgeek.github.io/tags/wall/</link>
-    <description>Recent content in wall on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 16:36:40 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/wall/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>3D Duvar Diyagramı</title>
-      <link>https://bimgeek.github.io/tutorials/3d-duvar-diyagrami/</link>
-      <pubDate>Wed, 02 Sep 2020 16:36:40 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/3d-duvar-diyagrami/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;te &amp;lsquo;3D Duvar Diyagramı&amp;rsquo; oluşturacağım. Aslında Create Parts komutunu tanımak adına güzel bir video olacak. Bu komut sayesinde 3D duvar, döşeme ve çatı detayları çıkarmak ve hoş grafiklerle ifade etmek mümkün. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-  </channel>
-</rss>

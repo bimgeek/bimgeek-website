@@ -1,55 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>roof on BIMGEEK</title>
-    <link>https://bimgeek.github.io/tags/roof/</link>
-    <description>Recent content in roof on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2020 16:39:16 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/roof/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>3D Çatı Diyagramı</title>
-      <link>https://bimgeek.github.io/tutorials/3d-cati-diyagrami/</link>
-      <pubDate>Wed, 07 Oct 2020 16:39:16 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/3d-cati-diyagrami/</guid>
-      <description>Herkese selamlar,
-Proje detayları 3 boyutlu olarak ifade etmek, grafik anlamda ve karşıdaki kişinin anlamasını kolaylaştırması açısından güzel oluyor. Bu videoda basit bir çatının 3 boyutlu bir diyagramını yaptık. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-    <item>
-      <title>Kelebek Çatı Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/kelebek-cati/</link>
-      <pubDate>Sat, 22 Aug 2020 16:36:06 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/kelebek-cati/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;te Kelebek Çatı modellemesi gerçekleştirdim. Aynı formu farklı yöntemler kullanarak oluşturmak çatı modelleme araçlarını keşfetmek adına güzel oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>4 Köşeli Beşik Çatı Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/besik-cati/</link>
-      <pubDate>Sat, 08 Aug 2020 16:34:55 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/besik-cati/</guid>
-      <description>Herkese selamlar,
-Bu videoda 4 Köşeli Beşik Çatı ya da diğer adıyla &amp;lsquo;Haç Çatı&amp;rsquo; modellemesi gerçekleştirdim. Çatı komutunun nasıl çalıştığına dair detaylar içermesiyle güzel bir video oldu. İyi Seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.</description>
-    </item>
-    
-    <item>
-      <title>Revit&#39;te Kıvrımlı Çatı Yapmak</title>
-      <link>https://bimgeek.github.io/tutorials/kivrimli-cati/</link>
-      <pubDate>Sat, 06 Jun 2020 17:09:23 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/kivrimli-cati/</guid>
-      <description>Herkese selamlar,
-İlk videoda ilginç bir konuyla, kıvrımlı bir çatıyı Revit ortamında nasıl oluşturabileceğimizle başladık. Video önerilerinizi yorum kısmında belirtirseniz, o konularda da içerikler üretmek isterim.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-  </channel>
-</rss>

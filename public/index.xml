@@ -1,394 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>BIMGEEK</title>
-    <link>https://bimgeek.github.io/</link>
-    <description>Recent content on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jan 2022 22:16:09 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Visualizing Room Data in Power Bi</title>
-      <link>https://bimgeek.github.io/tutorials/visualizing-room-data-in-power-bi/</link>
-      <pubDate>Thu, 13 Jan 2022 22:16:09 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/visualizing-room-data-in-power-bi/</guid>
-      <description>Understanding and visualizing building data is essential to any data-driven workflow and being Speckle a data platform, it follows quite naturally that you might want to analyze streams and commits coming from it. And thats what we are going to do in this tutorial. I am going to show you how you can visualize Revit Room data in Power BI using Speckle connectors.
-Let&amp;rsquo;s get started!🏃‍♂️
-Prefer watching than reading? Here&amp;rsquo;s a video too!</description>
-    </item>
-    
-    <item>
-      <title>Revit Elements to Rhino Using Speckle</title>
-      <link>https://bimgeek.github.io/tutorials/revit-elements-to-rhino-using-speckle/</link>
-      <pubDate>Thu, 13 Jan 2022 22:09:19 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/revit-elements-to-rhino-using-speckle/</guid>
-      <description>In this tutorial, we&amp;rsquo;ll send some Revit elements to Rhino and the geometry in Rhino will contain selected Revit parameters. This workflow contains a lot of use cases but I will create a really simple script that will color Revit elements by their properties, just to demonstrate the structure of the data that comes from Speckle and how we can use it in the workflow.
-Let&amp;rsquo;s get started!🏃‍♂️
-Prefer watching than reading?</description>
-    </item>
-    
-    <item>
-      <title>Create Revit Sheets from Excel</title>
-      <link>https://bimgeek.github.io/tutorials/create-revit-sheets-from-excel/</link>
-      <pubDate>Wed, 17 Nov 2021 20:29:54 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/create-revit-sheets-from-excel/</guid>
-      <description>In this tutorial, we&amp;rsquo;ll create Revit Sheets from Excel table containing Sheet Names and Numbers with Dynamo. Especially in large scale projects, creating hundreds of sheets manually just doesn&amp;rsquo;t make any sense. Since we are already populating sheet names, numbers and any other data in Excel, why not use that data in Dynamo directly and automate this task. Let&amp;rsquo;s just do that👇!
-Prefer watching than reading? Here&amp;rsquo;s a video too!   Prerequisites To follow this tutorial you&amp;rsquo;ll need the following:</description>
-    </item>
-    
-    <item>
-      <title>Floor Finishes by Room using Grasshopper inside Revit</title>
-      <link>https://bimgeek.github.io/tutorials/rir-floor-finish/</link>
-      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/rir-floor-finish/</guid>
-      <description>In this video, we are going to automate floor finish creation using Grasshopper inside Revit. Creating floor finishes is a task that can be automated easily and save us a huge amount of time. When room finishes are defined or embedded in a room&amp;rsquo;s parameter, it doesn&amp;rsquo;t make any sense to model floor finishes manually. We are going to create floor finishes from room boundaries using Grasshopper inside Revit.</description>
-    </item>
-    
-    <item>
-      <title>Rhino Inside Revit Nedir</title>
-      <link>https://bimgeek.github.io/tutorials/rhino-inside-revit-nedir/</link>
-      <pubDate>Sun, 14 Mar 2021 16:40:07 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/rhino-inside-revit-nedir/</guid>
-      <description>Grasshopper ile yapılmış mimari projelere bir örnek: Shanghai Tower, Gensler
-Rhino ve Grasshopper Rhino🦏, McNeel tarafından geliştirilen bir 3D modelleme uygulaması ve 1980&amp;rsquo;de piyasaya sürülmesinden bu yana, güçlü geometri motoru💪 ve çok yönlülüğü nedeniyle mimari, imalat, endüstriyel tasarım ve ürün tasarımı için kullanılan önemli tasarım uygulamalarından biri haline gelmiştir. Rhino&amp;rsquo;nun geometri mantığının altında NURBS (Non-uniform rational B-spline) yatar. NURBS&amp;rsquo;ler sayesinde, mesh tabanlı uygulamaların aksine, hassas eğrileri ve yüzeyleri matematiksel olarak modelleyebilir.</description>
-    </item>
-    
-    <item>
-      <title>Grasshopper ile Level Eklemek</title>
-      <link>https://bimgeek.github.io/tutorials/grasshopper-ile-level-eklemek/</link>
-      <pubDate>Wed, 10 Feb 2021 16:39:54 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/grasshopper-ile-level-eklemek/</guid>
-      <description>Herkese selamlar,
-Bu videoda Rhino.Inside Revit ile Grasshopper üzerinden Revit&amp;rsquo;te otomatik level oluşturma ve isimlendirme konusunu işledik. Başlangıç seviyesinde Grasshopper bilenler için güzel bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>Chapel of St Basil</title>
-      <link>https://bimgeek.github.io/tutorials/chapel-of-st-basil/</link>
-      <pubDate>Wed, 28 Oct 2020 16:39:42 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/chapel-of-st-basil/</guid>
-      <description>Herkese selamlar,
-Bu videoda Philip Johnson&amp;rsquo;ın Houston&amp;rsquo;da yer alan &amp;lsquo;Chapel of St. Basil&amp;rsquo; projesini modelledim. Fermuar gibi açılan duvar, Mass modelleme ortamıyla aşina olmak adına güzel bir örnek oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-    <item>
-      <title>Bosjes Chapel - Revit&#39;te Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/bosjes-chapel/</link>
-      <pubDate>Wed, 14 Oct 2020 16:39:29 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/bosjes-chapel/</guid>
-      <description>Herkese selamlar,
-Güney Afrika&amp;rsquo;da bir bağ içinde yer alan Bosjes Chapel, Londra merkezli Steyn Studio&amp;rsquo;dan Güney Afrika doğumlu Coetzee Steyn tarafından tasarlandı. Sakin heykelsi formu, çevredeki dağ sıralarının siluetini taklit eden yapı, ince bir beton döküm kabuktan inşa edilen çatıya sahip. Bu videoda yapının çatısını Revit ortamında modelledik. Cephesini de basit anlamda oluşturduk. İyi seyirler.
-Proje hakkında daha fazla bilgi için 👉 Bosjes Chapel / Steyn Studio</description>
-    </item>
-    
-    <item>
-      <title>3D Çatı Diyagramı</title>
-      <link>https://bimgeek.github.io/tutorials/3d-cati-diyagrami/</link>
-      <pubDate>Wed, 07 Oct 2020 16:39:16 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/3d-cati-diyagrami/</guid>
-      <description>Herkese selamlar,
-Proje detayları 3 boyutlu olarak ifade etmek, grafik anlamda ve karşıdaki kişinin anlamasını kolaylaştırması açısından güzel oluyor. Bu videoda basit bir çatının 3 boyutlu bir diyagramını yaptık. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-    <item>
-      <title>Revit&#39;te Kırık Kesit Almak</title>
-      <link>https://bimgeek.github.io/tutorials/revit-kirik-kesit-alma/</link>
-      <pubDate>Sat, 03 Oct 2020 16:39:02 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/revit-kirik-kesit-alma/</guid>
-      <description>Herkese selamlar,
-Section (Kesit) aracı, başlangıç düzeyindeki Revit eğitimlerinden itibaren sürekli anlatılır. Ancak bazı kullanıcıların gözünden kaçan bir noktaya, Revit&amp;rsquo;te Kırık Kesit Alma konusuna bu video&amp;rsquo;da değindim. İyi seyirler.</description>
-    </item>
-    
-    <item>
-      <title>Parametrik Mutfak Mobilyasi</title>
-      <link>https://bimgeek.github.io/tutorials/parametrik-mutfak-mobilyasi/</link>
-      <pubDate>Wed, 30 Sep 2020 16:38:45 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/parametrik-mutfak-mobilyasi/</guid>
-      <description>Herkese selamlar,
-Geçtiğimiz videolarda Revit&amp;rsquo;in hazır kütüphanesini kullanarak bir mutfak modellemesi gerçekleştirmiştik. Bu videoda basit bir Parametrik Mutfak Mobilyası modelleyeceğiz. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>Kıvrımlı Giydirme Cephe</title>
-      <link>https://bimgeek.github.io/tutorials/kivrimli-giydirme-cephe/</link>
-      <pubDate>Sun, 27 Sep 2020 16:38:30 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/kivrimli-giydirme-cephe/</guid>
-      <description>Herkese selamlar,
-Revit&amp;rsquo;te tam anlamıyla kıvrımlı bir giydirme cephe yapmak mümkün değil. Bu videoda, dolaylı yoldan bir kıvrımlı cephe modelledim. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>Camp Adventure - Revit&#39;te Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/camp-adventure/</link>
-      <pubDate>Wed, 23 Sep 2020 16:38:17 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/camp-adventure/</guid>
-      <description>Bu videoda EFFEKT Mimarlık ofisinin tasarladığı Danimarka&amp;rsquo;da yer alan Camp Adventure Gözetleme Kulesi projesini Revit&amp;rsquo;te modelledim. Adaptive Component ve Mass environment&amp;rsquo;a dair incelikler içeren bir video oldu. İyi seyirler.
-Camp Adventure Observation Tower / EFFEKT
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>3D Döşeme Diyagramı</title>
-      <link>https://bimgeek.github.io/tutorials/3d-doseme-diyagrami/</link>
-      <pubDate>Sat, 19 Sep 2020 16:38:05 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/3d-doseme-diyagrami/</guid>
-      <description>Herkese selamlar,
-Bu videoda, Patlamış Axonometrik görünüşte bir döşemeyi katmanlarına ayırarak bir grafik elde ettik. Daha önceki videolarda işlediğimiz Create Parts ve Displace Elements komutlarının birlikte çalışılabilirliği üzerinden nasıl sonuçlar elde edilebileceğini de göstermiş olduk. Her şey adım adım videoda!
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>Revit Arayüzünü Sadeleştirmek</title>
-      <link>https://bimgeek.github.io/tutorials/revit-arayuzunu-sadelestirmek/</link>
-      <pubDate>Wed, 16 Sep 2020 16:37:51 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/revit-arayuzunu-sadelestirmek/</guid>
-      <description>Bu videoda Revit arayüzünde kullanmadığınız sekmeleri kaldırmayı ve bu sayede kullanım kolaylığı elde etmeyi hedefledik. İyi seyirler.</description>
-    </item>
-    
-    <item>
-      <title>Ikea - Billy Kitaplık</title>
-      <link>https://bimgeek.github.io/tutorials/ikea-billy-kitaplik/</link>
-      <pubDate>Sat, 12 Sep 2020 16:37:33 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/ikea-billy-kitaplik/</guid>
-      <description>Bu videoda IKEA&amp;rsquo;nın Billy kitaplık serisini Revit&amp;rsquo;te modelledik. Billy serisi, farklı malzeme seçenekleri ve farklı boyutlarda alternatifler sunması bakımından güzel bir seçim oldu. Videoda, formüller, nested families ve parametrelerin birbirleriyle olan ilişkilerine değindik. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>Boşluklu Tuğla Duvar</title>
-      <link>https://bimgeek.github.io/tutorials/bosluklu-tugla-duvar/</link>
-      <pubDate>Wed, 09 Sep 2020 16:37:16 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/bosluklu-tugla-duvar/</guid>
-      <description>Herkese selamlar,
-Bu videoda İngilizce&amp;rsquo;de &amp;ldquo;Perforated Brick Wall&amp;rdquo; veya &amp;ldquo;Brick Breeze Wall&amp;rdquo; da denilen Boşluklu Çarpraz Tuğla Duvar modellemesi gerçekleştirdim. Generic Model ve Curtain Wall Panel Family ortamlarının çalışma şekillerini anlamak adına güzel bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>Museo Soumaya | FR-EE   </title>
-      <link>https://bimgeek.github.io/tutorials/museo-soumaya/</link>
-      <pubDate>Sat, 05 Sep 2020 16:36:57 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/museo-soumaya/</guid>
-      <description>Herkese selamlar, Bu videoda FR-EE tarafından tasarlanan Soumaya Museum projesini Revit&amp;rsquo;te modelledim. Amorf formuyla ve cephesini kaplayan panelleriyle dikkatleri üzerine çeken proje Meksika&amp;rsquo;nın başkenti Mexico City&amp;rsquo;de yer alıyor. Mass modelleme ve Pattern Based Curtain Wall Panel family i tanımak anlamında güzel bir içerik oldu. İyi seyirler.
-Soumaya Museum / FR-EE Fernando Romero Enterprise
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>3D Duvar Diyagramı</title>
-      <link>https://bimgeek.github.io/tutorials/3d-duvar-diyagrami/</link>
-      <pubDate>Wed, 02 Sep 2020 16:36:40 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/3d-duvar-diyagrami/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;te &amp;lsquo;3D Duvar Diyagramı&amp;rsquo; oluşturacağım. Aslında Create Parts komutunu tanımak adına güzel bir video olacak. Bu komut sayesinde 3D duvar, döşeme ve çatı detayları çıkarmak ve hoş grafiklerle ifade etmek mümkün. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>Design Options Komutu</title>
-      <link>https://bimgeek.github.io/tutorials/design-options/</link>
-      <pubDate>Sat, 29 Aug 2020 16:36:28 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/design-options/</guid>
-      <description>Herkese selamlar, Bu videoda Design Options aracını ve sunduğu imkanları ele aldık. Farklı tasarım alternatiflerini incelerken ayrıca bir model oluşturmanın önüne de geçen bu komut aslında çok kullanışlı. İyi seyirler.</description>
-    </item>
-    
-    <item>
-      <title>Parametrik Masa</title>
-      <link>https://bimgeek.github.io/tutorials/parametrik-masa/</link>
-      <pubDate>Wed, 26 Aug 2020 16:36:15 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/parametrik-masa/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;te Kelebek Çatı modellemesi gerçekleştirdim. Aynı formu farklı yöntemler kullanarak oluşturmak çatı modelleme araçlarını keşfetmek adına güzel oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>Kelebek Çatı Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/kelebek-cati/</link>
-      <pubDate>Sat, 22 Aug 2020 16:36:06 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/kelebek-cati/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;te Kelebek Çatı modellemesi gerçekleştirdim. Aynı formu farklı yöntemler kullanarak oluşturmak çatı modelleme araçlarını keşfetmek adına güzel oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>Cathedral of Brasilia - Revit&#39;te Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/cathedral-of-brasilia/</link>
-      <pubDate>Wed, 19 Aug 2020 16:35:53 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/cathedral-of-brasilia/</guid>
-      <description>Herkese selamlar, Bu videoda ünlü mimar Oscar Niemeyer&amp;rsquo;in &amp;lsquo;Cathedral of Brasilia&amp;rsquo; projesi kütlesini Revit&amp;rsquo;te modelledik. Mass araçlarını ve reference plane&amp;rsquo;in nasıl çalıştığını anlamak açısından güzel bir video oldu. İyi seyirler.
-AD Classics: Cathedral of Brasilia / Oscar Niemeyer
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>Patlamış Perspektif Görünüş</title>
-      <link>https://bimgeek.github.io/tutorials/patlamis-perspektif-gorunus/</link>
-      <pubDate>Sat, 15 Aug 2020 16:35:39 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/patlamis-perspektif-gorunus/</guid>
-      <description>Herkese selamlar, Bu videoda sadece Revit kullanarak bir Patlamış Perspektif görseli oluşturdum. Displace Element komutunu ve Revit&amp;rsquo;in grafik anlamda potansiyelini ortaya koymak adına güzel bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.</description>
-    </item>
-    
-    <item>
-      <title>Çimento Maliyeti Hesaplama</title>
-      <link>https://bimgeek.github.io/tutorials/cimento-maliyeti-hesaplama/</link>
-      <pubDate>Wed, 12 Aug 2020 16:35:22 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/cimento-maliyeti-hesaplama/</guid>
-      <description>Herkese selamlar,
-Bu videoda kolon, kiriş ve döşemeden oluşan basit bir strüktürde ne kadar çimento kullanıldığını ve bunun yaklaşık maliyetini hesapladım. Parametreler arası ilişkileri irdelemesi ve Schedule&amp;rsquo;a değinmesi ile güzel bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>4 Köşeli Beşik Çatı Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/besik-cati/</link>
-      <pubDate>Sat, 08 Aug 2020 16:34:55 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/besik-cati/</guid>
-      <description>Herkese selamlar,
-Bu videoda 4 Köşeli Beşik Çatı ya da diğer adıyla &amp;lsquo;Haç Çatı&amp;rsquo; modellemesi gerçekleştirdim. Çatı komutunun nasıl çalıştığına dair detaylar içermesiyle güzel bir video oldu. İyi Seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.</description>
-    </item>
-    
-    <item>
-      <title>Burj Al Arab - Cephe Paneli Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/burj-al-arab/</link>
-      <pubDate>Wed, 05 Aug 2020 19:38:57 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/burj-al-arab/</guid>
-      <description>Herkese selamlar,
-Bu video&amp;rsquo;da dünyaca meşhur Burj Al Arab hotelinin cephesini kaplayan fiberglass cephe panellerini Revit&amp;rsquo;te modelledik. Özellikle adaptive component&amp;rsquo;in nasıl çalıştığı, reference linelar ve reference point&amp;rsquo;lerin parametrelerinin nasıl kontrol edileceğine dair güzel bilgiler içeren bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>Parametrik Perde Family&#39;si</title>
-      <link>https://bimgeek.github.io/tutorials/perde-family/</link>
-      <pubDate>Sat, 01 Aug 2020 16:16:23 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/perde-family/</guid>
-      <description>Herkese selamlar,
-Bu videoda Parametrik Perde Family&amp;rsquo;si oluşturduk. Genişliğini, yüksekliği, duvara olan mesafesini ve materyalini kontrol edebildiğimiz family&amp;rsquo;nin geometrisi de ilginç oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>Isenberg School of Management - Revit&#39;te Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/isenberg-school-of-management/</link>
-      <pubDate>Wed, 29 Jul 2020 22:22:55 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/isenberg-school-of-management/</guid>
-      <description>Herkese Selamlar,
-Bu videoda Bjarke Ingels’ın ‘Isenberg School of Management’ tasarımını Revit’te modellemeye çalıştım. Mass ortamının diğer elemanlarla nasıl çalıştığına dair genel bir fikir vermesi açısından güzel bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-    <item>
-      <title>Sadece Gölgeleri Export Almak</title>
-      <link>https://bimgeek.github.io/tutorials/golgeleri-export-almak/</link>
-      <pubDate>Sat, 25 Jul 2020 17:23:58 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/golgeleri-export-almak/</guid>
-      <description>Herkese selamlar,
-Bu video’da grafik anlamda birçok kullanıcının işine yarayacak bir konudan bahsettim: Gölgeyi ayrıca export almak. Post production aşamasında büyük kolaylıklar sağlayan bu konu, Revit’te standart olarak olan bir çözüm değil. Ancak biraz dolambaçlı da olsa bunun da bir çözümü var.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>Mutfak Modelleme - Default Family&#39;leri Kullanarak</title>
-      <link>https://bimgeek.github.io/tutorials/mutfak-modelleme/</link>
-      <pubDate>Wed, 22 Jul 2020 17:23:37 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/mutfak-modelleme/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;le beraber gelen kütüphanedeki familyleri kullanarak bir mutfak modellemesi yaptım. Birçok kullanıcı Revit&amp;rsquo;le beraber gelen kütüphaneyi göz ardı ediyor. Bu videoda hazır kütüphanenin potansiyelini ortaya çıkarmaya çalıştım. Umarım birşeyler öğrenmişsinizdir.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-    <item>
-      <title>Arka Plan Rengini Değiştirmek</title>
-      <link>https://bimgeek.github.io/tutorials/arka-plan-rengini-degistirmek/</link>
-      <pubDate>Sat, 04 Jul 2020 17:20:22 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/arka-plan-rengini-degistirmek/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit modelleme arayüzü arkaplanı rengini koyu bir renkle değiştirmeyi anlattım. Uzun süreli kullanımlarda parlak arkaplanların gözü ne kadar yorduğunu hepiniz biliyorsunuz. Her ne kadar tamamen karanlık bir tema olmasa da kısmen de olsa siyah bir arayüz bazılarının işine yarayabilir. Umarım işinize yaramıştır.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>Üç Kollu Merdiven</title>
-      <link>https://bimgeek.github.io/tutorials/uc-kollu-merdiven/</link>
-      <pubDate>Sat, 13 Jun 2020 17:14:37 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/uc-kollu-merdiven/</guid>
-      <description>Herkese selamlar,
-Bu videoda standart araçlarla yapmanın mümkün olmadığını sanılan, eskiz ile çizimi de oldukça kafa karıştırıcı olan &amp;lsquo;Üç Kollu Merdiven&amp;rsquo;i Revit&amp;rsquo;te oluşturduk. Umarım faydalı olmuştur.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>Revit&#39;te Kıvrımlı Çatı Yapmak</title>
-      <link>https://bimgeek.github.io/tutorials/kivrimli-cati/</link>
-      <pubDate>Sat, 06 Jun 2020 17:09:23 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/kivrimli-cati/</guid>
-      <description>Herkese selamlar,
-İlk videoda ilginç bir konuyla, kıvrımlı bir çatıyı Revit ortamında nasıl oluşturabileceğimizle başladık. Video önerilerinizi yorum kısmında belirtirseniz, o konularda da içerikler üretmek isterim.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://bimgeek.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bimgeek.github.io/about/</guid>
-      <description>Hey👋🏻, I&amp;rsquo;m Mucahit Bilal, a Computational Design Technologist living in Turkey. With background in architecture, I am passionate about computational design and BIM. Currently, I am working at Kalyon Co. as a Computational Design Specialist, working across multiple projects doing a lot of automation for tedious tasks. I am specialised in the use of BIM and its implementation in a wide variety of project scales and types. I have a high level of understanding in Python🐍, Dynamo and Grasshopper🦗.</description>
-    </item>
-    
-    <item>
-      <title>Curriculum-Vitae</title>
-      <link>https://bimgeek.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bimgeek.github.io/cv/</guid>
-      <description>Mücahit Bilal GÖKER Summary ✍  I am an architect with experience in a wide variety of project scales and types, worked with designers, engineers and contractors in all phases of building design and construction. I leverage BIM, VDC and Design Technology to provide impactful tools for project success. My current focus is on design automation and leveraging data in BIM models for meaningful results.
-.button {display: flex;height: 50px;margin: auto;padding: 0;background: #356fdc;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    
-  </channel>
-</rss>

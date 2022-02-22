@@ -1,42 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>ui on BIMGEEK</title>
-    <link>https://bimgeek.github.io/tags/ui/</link>
-    <description>Recent content in ui on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 16:37:51 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/ui/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Revit Arayüzünü Sadeleştirmek</title>
-      <link>https://bimgeek.github.io/tutorials/revit-arayuzunu-sadelestirmek/</link>
-      <pubDate>Wed, 16 Sep 2020 16:37:51 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/revit-arayuzunu-sadelestirmek/</guid>
-      <description>Bu videoda Revit arayüzünde kullanmadığınız sekmeleri kaldırmayı ve bu sayede kullanım kolaylığı elde etmeyi hedefledik. İyi seyirler.</description>
-    </item>
-    
-    <item>
-      <title>Sadece Gölgeleri Export Almak</title>
-      <link>https://bimgeek.github.io/tutorials/golgeleri-export-almak/</link>
-      <pubDate>Sat, 25 Jul 2020 17:23:58 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/golgeleri-export-almak/</guid>
-      <description>Herkese selamlar,
-Bu video’da grafik anlamda birçok kullanıcının işine yarayacak bir konudan bahsettim: Gölgeyi ayrıca export almak. Post production aşamasında büyük kolaylıklar sağlayan bu konu, Revit’te standart olarak olan bir çözüm değil. Ancak biraz dolambaçlı da olsa bunun da bir çözümü var.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>Arka Plan Rengini Değiştirmek</title>
-      <link>https://bimgeek.github.io/tutorials/arka-plan-rengini-degistirmek/</link>
-      <pubDate>Sat, 04 Jul 2020 17:20:22 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/arka-plan-rengini-degistirmek/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit modelleme arayüzü arkaplanı rengini koyu bir renkle değiştirmeyi anlattım. Uzun süreli kullanımlarda parlak arkaplanların gözü ne kadar yorduğunu hepiniz biliyorsunuz. Her ne kadar tamamen karanlık bir tema olmasa da kısmen de olsa siyah bir arayüz bazılarının işine yarayabilir. Umarım işinize yaramıştır.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-  </channel>
-</rss>

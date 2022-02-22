@@ -1,22 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>burj al arab on BIMGEEK</title>
-    <link>https://bimgeek.github.io/tags/burj-al-arab/</link>
-    <description>Recent content in burj al arab on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2020 19:38:57 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/burj-al-arab/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Burj Al Arab - Cephe Paneli Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/burj-al-arab/</link>
-      <pubDate>Wed, 05 Aug 2020 19:38:57 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/burj-al-arab/</guid>
-      <description>Herkese selamlar,
-Bu video&amp;rsquo;da dünyaca meşhur Burj Al Arab hotelinin cephesini kaplayan fiberglass cephe panellerini Revit&amp;rsquo;te modelledik. Özellikle adaptive component&amp;rsquo;in nasıl çalıştığı, reference linelar ve reference point&amp;rsquo;lerin parametrelerinin nasıl kontrol edileceğine dair güzel bilgiler içeren bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-  </channel>
-</rss>

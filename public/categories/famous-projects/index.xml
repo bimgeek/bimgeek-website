@@ -1,88 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>famous projects on BIMGEEK</title>
-    <link>https://bimgeek.github.io/categories/famous-projects/</link>
-    <description>Recent content in famous projects on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 16:39:42 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/famous-projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chapel of St Basil</title>
-      <link>https://bimgeek.github.io/tutorials/chapel-of-st-basil/</link>
-      <pubDate>Wed, 28 Oct 2020 16:39:42 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/chapel-of-st-basil/</guid>
-      <description>Herkese selamlar,
-Bu videoda Philip Johnson&amp;rsquo;ın Houston&amp;rsquo;da yer alan &amp;lsquo;Chapel of St. Basil&amp;rsquo; projesini modelledim. Fermuar gibi açılan duvar, Mass modelleme ortamıyla aşina olmak adına güzel bir örnek oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-    <item>
-      <title>Bosjes Chapel - Revit&#39;te Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/bosjes-chapel/</link>
-      <pubDate>Wed, 14 Oct 2020 16:39:29 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/bosjes-chapel/</guid>
-      <description>Herkese selamlar,
-Güney Afrika&amp;rsquo;da bir bağ içinde yer alan Bosjes Chapel, Londra merkezli Steyn Studio&amp;rsquo;dan Güney Afrika doğumlu Coetzee Steyn tarafından tasarlandı. Sakin heykelsi formu, çevredeki dağ sıralarının siluetini taklit eden yapı, ince bir beton döküm kabuktan inşa edilen çatıya sahip. Bu videoda yapının çatısını Revit ortamında modelledik. Cephesini de basit anlamda oluşturduk. İyi seyirler.
-Proje hakkında daha fazla bilgi için 👉 Bosjes Chapel / Steyn Studio</description>
-    </item>
-    
-    <item>
-      <title>Camp Adventure - Revit&#39;te Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/camp-adventure/</link>
-      <pubDate>Wed, 23 Sep 2020 16:38:17 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/camp-adventure/</guid>
-      <description>Bu videoda EFFEKT Mimarlık ofisinin tasarladığı Danimarka&amp;rsquo;da yer alan Camp Adventure Gözetleme Kulesi projesini Revit&amp;rsquo;te modelledim. Adaptive Component ve Mass environment&amp;rsquo;a dair incelikler içeren bir video oldu. İyi seyirler.
-Camp Adventure Observation Tower / EFFEKT
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>Museo Soumaya | FR-EE   </title>
-      <link>https://bimgeek.github.io/tutorials/museo-soumaya/</link>
-      <pubDate>Sat, 05 Sep 2020 16:36:57 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/museo-soumaya/</guid>
-      <description>Herkese selamlar, Bu videoda FR-EE tarafından tasarlanan Soumaya Museum projesini Revit&amp;rsquo;te modelledim. Amorf formuyla ve cephesini kaplayan panelleriyle dikkatleri üzerine çeken proje Meksika&amp;rsquo;nın başkenti Mexico City&amp;rsquo;de yer alıyor. Mass modelleme ve Pattern Based Curtain Wall Panel family i tanımak anlamında güzel bir içerik oldu. İyi seyirler.
-Soumaya Museum / FR-EE Fernando Romero Enterprise
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>Cathedral of Brasilia - Revit&#39;te Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/cathedral-of-brasilia/</link>
-      <pubDate>Wed, 19 Aug 2020 16:35:53 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/cathedral-of-brasilia/</guid>
-      <description>Herkese selamlar, Bu videoda ünlü mimar Oscar Niemeyer&amp;rsquo;in &amp;lsquo;Cathedral of Brasilia&amp;rsquo; projesi kütlesini Revit&amp;rsquo;te modelledik. Mass araçlarını ve reference plane&amp;rsquo;in nasıl çalıştığını anlamak açısından güzel bir video oldu. İyi seyirler.
-AD Classics: Cathedral of Brasilia / Oscar Niemeyer
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.</description>
-    </item>
-    
-    <item>
-      <title>Burj Al Arab - Cephe Paneli Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/burj-al-arab/</link>
-      <pubDate>Wed, 05 Aug 2020 19:38:57 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/burj-al-arab/</guid>
-      <description>Herkese selamlar,
-Bu video&amp;rsquo;da dünyaca meşhur Burj Al Arab hotelinin cephesini kaplayan fiberglass cephe panellerini Revit&amp;rsquo;te modelledik. Özellikle adaptive component&amp;rsquo;in nasıl çalıştığı, reference linelar ve reference point&amp;rsquo;lerin parametrelerinin nasıl kontrol edileceğine dair güzel bilgiler içeren bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>Isenberg School of Management - Revit&#39;te Modelleme</title>
-      <link>https://bimgeek.github.io/tutorials/isenberg-school-of-management/</link>
-      <pubDate>Wed, 29 Jul 2020 22:22:55 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/isenberg-school-of-management/</guid>
-      <description>Herkese Selamlar,
-Bu videoda Bjarke Ingels’ın ‘Isenberg School of Management’ tasarımını Revit’te modellemeye çalıştım. Mass ortamının diğer elemanlarla nasıl çalıştığına dair genel bir fikir vermesi açısından güzel bir video oldu. İyi seyirler.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-  </channel>
-</rss>

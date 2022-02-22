@@ -1,22 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>stair on BIMGEEK</title>
-    <link>https://bimgeek.github.io/tags/stair/</link>
-    <description>Recent content in stair on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2020 17:14:37 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/stair/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Üç Kollu Merdiven</title>
-      <link>https://bimgeek.github.io/tutorials/uc-kollu-merdiven/</link>
-      <pubDate>Sat, 13 Jun 2020 17:14:37 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/uc-kollu-merdiven/</guid>
-      <description>Herkese selamlar,
-Bu videoda standart araçlarla yapmanın mümkün olmadığını sanılan, eskiz ile çizimi de oldukça kafa karıştırıcı olan &amp;lsquo;Üç Kollu Merdiven&amp;rsquo;i Revit&amp;rsquo;te oluşturduk. Umarım faydalı olmuştur.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-  </channel>
-</rss>
