@@ -38,7 +38,3 @@ If you want to learn more about me👇🏻:
 <a href="/cv/">
     {{< custom-button ionicon="reorder-four" text="Curriculum-Vitae">}}
 </a>
-
-This is some content.
-
-{{< callout emoji="💯" text="This is the text that will show up in the callout. It can be as long as you like, but only one paragraph." >}}
