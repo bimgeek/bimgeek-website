@@ -56,6 +56,12 @@ I am an architect with experience in a wide variety of project scales and types,
 - Provide technical support for BIM enabling software applications to the project teams
 - Organize workshops and trainings to internal staff members
 
+### Guest Instructor👨‍🏫 [@ITU](https://www.itu.edu.tr)
+
+*Sep 2021 - Present*
+
+- ITU MTZ Master's Programme - Special Topics in Construction 1/2 Courses
+
 ### BIM Architect [@VIVA Architects](http://www.vivaarchitects.com)
 
 *June 2019 - Jan 2020*
@@ -88,15 +94,11 @@ I am an architect with experience in a wide variety of project scales and types,
 
 ### MSGSU
 
-*Sept 2020-June 2023 (expected)*
-
 Masters in Architectural and Urban Informatics Applications
 
-*GPA: 3.94 (currently)*
+*GPA: 3.95 (currently)*
 
 ### Istanbul Technical University
-
-*Sept 2014-Jan 2019*
 
 Bachelors in Architecture
 
@@ -112,7 +114,7 @@ Autodesk Revit, Dynamo, Grasshopper🦗, Rhinoceros🦏, AutoCAD, Sketchup, Phot
 
 ### Good
 
-Python🐍, Enscape, Twinmotion, PowerBI, BIM360
+Python🐍, RevitAPI, Navisworks, PowerBI, BIM360, Enscape, Twinmotion
 
 ### Basic
 
@@ -138,14 +140,14 @@ Project includes the design of a social center to be used by students at ITU Aya
 
 ---
 
-Much of what I have learned is from the people around me 👨‍👨‍👦. For this reason, if I want to improve💪🏻 myself in a field, I surround myself with people who are interested🤔 in the same subject. It’s also really nice to be with people you speak the same language with.
+Much of what I have learned is from the people around me 👨‍👨‍👦. For this reason, if I want to improve myself in a field, I surround myself with people who are interested🤔 in the same subject. It’s also really nice to be with people you speak the same language with.
 
 ### BIM4TURKEY
 *Board Member*
 
 *[BIM4TURKEY](https://bim4turkey.com/en)* is a platform belonging to “Building Information Modeling and Management Association”. It aims to facilitate the integration of Building Information Modelling and Management (BIM) easier and smoother to the building industry, higher education and public companies.
 
-We have founded it to create an atmosphere around the subject of BIM. Now, it has turned into an umbrella organization☂ rather than a platform. All the major construction companies (such as TURNER, Kalyon (my current company), BSI and many more) have partnered with us in achieving our mission💪🏻.
+We have founded it to create an atmosphere around the subject of BIM. Now, it has turned into an umbrella organization rather than a platform. All the major construction companies (such as TURNER, Kalyon (my current company), BSI and many more) have partnered with us in achieving our mission.
 
 ### SPECKLE
 *Contributor*
