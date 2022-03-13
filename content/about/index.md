@@ -25,7 +25,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-<img src="/images/about/profile.jpg" width=300px  >
+<img src="/images/about/profile.png" width=350px  >
 
 ## Hey👋🏻, I'm Mucahit Bilal, a Computational Design Technologist living in Turkey.
 
