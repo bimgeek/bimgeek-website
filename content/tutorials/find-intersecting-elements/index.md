@@ -1,6 +1,6 @@
 ---
 title: "Find Intersecting Elements💥"
-date: 2022-04-04T18:30:09+03:00
+date: 2022-04-04T17:30:09+03:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["english", "revit", "grasshopper"]
