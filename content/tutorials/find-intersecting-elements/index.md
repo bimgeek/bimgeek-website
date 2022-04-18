@@ -20,7 +20,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "assets/find-intersecting-elements.png" # or URL
+    image: "https://img.youtube.com/vi/AEdI_E9WQjQ/maxresdefault.jpg" # or URL
     alt: "<alt text>"
     caption: "<text>"
     relative: false # when using page bundles set this to true
@@ -30,7 +30,7 @@ cover:
 {{<youtube AEdI_E9WQjQ>}}
 ---
 
-When objects are intersecting with each other💥, finding those objects manually is a time consuming task. In this tutorial, I showed you a quick way to filter walls that are intersecting with the example structural model. This is especially useful when creating clash free models within native Revit environment.
+This is really easy but useful script! Bimifying CAD drawings is a common practice in the industry. In this video, I created a quick script that creates Rooms from CAD blocks with attributes such as its name, number and finishes. Great exercise for beginners! Take a look👀!
 
 {{< callout emoji="📌" text="Revit and Grasshopper files used in the tutorial can be downloaded from the button below👇." >}}
 
